@@ -1,0 +1,78 @@
+body {
+	background: #AEB6BF;
+}
+p {
+	color: red;
+	font-family: 'Bungee Inline' , cursive;
+ 	text-decoration: none;
+}
+ .solution {
+   color: black;
+   display: none;
+}
+.Zendayas-songs{
+ 	width: 317px;
+ 	height: 522px;
+ }
+nav {
+	background: black;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-radius: 100px;
+}
+a {
+	color: white;
+	text-decoration: none;
+	font-size: 30px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+a:hover, #all-answers:hover {
+	font-weight: bold;
+}
+h2 {
+ 	font-size: 35px;
+ 	font-weight: bold;
+ 	text-align: center;
+}
+h3 {
+	font-size: 30px;
+	text-align: center;
+}
+#all-answers {
+	color: black;
+}
+.left{
+	float: left;
+	margin-right: 20px;
+	width: 400px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+.right{
+	float: left;
+	width: 400px;
+}
+.empty{
+	clear: both;
+}
+#Zendaya-car{
+height: 400px;
+width: 400px;
+margin-top: 20px;
+}
+#Zendaya-black{
+	margin-top: 20px;
+}
+#quiz{
+	background: lightblue;
+	width: 600px;
+	margin: 10px auto;
+	padding: 10px 20px;
+	border: 7px ridge white;
+}
+#title{
+	margin: auto;
+	display: block;
+}
